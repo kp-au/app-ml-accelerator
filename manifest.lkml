@@ -31,7 +31,7 @@ application: ml-accelerator {
 }
 
 constant: CONNECTION_NAME {
-  value: "ml-accelerator"
+  value: "bq-prod-master"
   export: override_required
 }
 
